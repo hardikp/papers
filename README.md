@@ -6,6 +6,7 @@
 * Playing Atari with Deep Reinforcement Learning - [arXiv](https://arxiv.org/abs/1312.5602) - [paper](https://www.cs.toronto.edu/~vmnih/docs/dqn.pdf)
 * Deep Reinforcement Learning: An Overview - [arXiv](https://arxiv.org/abs/1701.07274)
 * A Brief Survey of Deep Reinforcement Learning - [arXiv](https://arxiv.org/abs/1708.05866)
+* A Deep Reinforcement Learning Chatbot - [arXiv](https://arxiv.org/abs/1709.02349)
 
 2017-09
 * StarSpace: Embed All The Things! - [arXiv](https://arxiv.org/abs/1709.03856) - [Code](https://github.com/facebookresearch/Starspace) - [Summary Post](https://www.hardikp.com/2017/09/24/embed-all-the-things/)
