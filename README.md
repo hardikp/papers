@@ -1,6 +1,7 @@
 2017-11
 * TreeQN and ATreeC: Differentiable Tree Planning for Deep Reinforcement Learning - [arXiv](https://arxiv.org/abs/1710.11417)
 * Non-Markovian Control with Gated End-to-End Memory Policy Networks - [arXiv](https://arxiv.org/abs/1705.10993)
+* Improving Factor-Based Quantitative Investing by Forecasting Company Fundamentals - [arXiv](https://arxiv.org/abs/1711.04837)
 
 2017-10
 * Playing Atari with Deep Reinforcement Learning - [arXiv](https://arxiv.org/abs/1312.5602) - [paper](https://www.cs.toronto.edu/~vmnih/docs/dqn.pdf)
