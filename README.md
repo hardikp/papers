@@ -1,6 +1,6 @@
 2017-11
 * Proximal Policy Optimization Algorithms - [arXiv](https://arxiv.org/abs/1707.06347)
-* Improving Factor-Based Quantitative Investing by Forecasting Company Fundamentals - [arXiv](https://arxiv.org/abs/1711.04837)
+* [Improving Factor-Based Quantitative Investing by Forecasting Company Fundamentals](https://www.hardikp.com/2017/12/14/forecasting-fundamentals/) - [arXiv](https://arxiv.org/abs/1711.04837)
 * TreeQN and ATreeC: Differentiable Tree Planning for Deep Reinforcement Learning - [arXiv](https://arxiv.org/abs/1710.11417)
 * Non-Markovian Control with Gated End-to-End Memory Policy Networks - [arXiv](https://arxiv.org/abs/1705.10993)
 
