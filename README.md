@@ -1,3 +1,6 @@
+2017-12
+* Mastering Chess and Shogi by Self-Play with a General Reinforcement Learning Algorithm - [arXiv](https://arxiv.org/abs/1712.01815)
+
 2017-11
 * Proximal Policy Optimization Algorithms - [arXiv](https://arxiv.org/abs/1707.06347)
 * [Improving Factor-Based Quantitative Investing by Forecasting Company Fundamentals](https://www.hardikp.com/2017/12/14/forecasting-fundamentals/) - [arXiv](https://arxiv.org/abs/1711.04837)
