@@ -1,4 +1,5 @@
 2017-12
+* Breaking the Softmax Bottleneck: A High-Rank RNN Language Model - [arXiv](https://arxiv.org/abs/1711.03953)
 * Mastering Chess and Shogi by Self-Play with a General Reinforcement Learning Algorithm - [arXiv](https://arxiv.org/abs/1712.01815)
 
 2017-11
