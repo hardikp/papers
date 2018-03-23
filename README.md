@@ -1,5 +1,7 @@
 2018-03
 
+* Averaging Weights Leads to Wider Optima and Better Generalization - [arXiv](https://arxiv.org/abs/1803.05407v1)
+* Machine Theory of Mind - [arXiv](https://arxiv.org/abs/1802.07740v2)
 * On the Optimization of Deep Networks: Implicit Acceleration by Overparameterization - [arXiv](https://arxiv.org/abs/1802.06509)
 * Diversity is All You Need: Learning Skills without a Reward Function - [arXiv](https://arxiv.org/abs/1802.06070)
 
