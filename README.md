@@ -1,5 +1,6 @@
 2018-03
 
+* An Analysis of Neural Language Modeling at Multiple Scales - [arXiv](https://arxiv.org/abs/1803.08240)
 * Averaging Weights Leads to Wider Optima and Better Generalization - [arXiv](https://arxiv.org/abs/1803.05407v1)
 * Machine Theory of Mind - [arXiv](https://arxiv.org/abs/1802.07740v2)
 * On the Optimization of Deep Networks: Implicit Acceleration by Overparameterization - [arXiv](https://arxiv.org/abs/1802.06509)
