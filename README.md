@@ -1,3 +1,8 @@
+2018-04
+
+* Measuring the Intrinsic Dimension of Objective Landscapes - [arXiv](https://arxiv.org/abs/1804.08838)
+* Prefrontal cortex as a meta-reinforcement learning system - [BioArxiv](https://www.biorxiv.org/content/early/2018/04/06/295964)
+
 2018-03
 
 * An Analysis of Neural Language Modeling at Multiple Scales - [arXiv](https://arxiv.org/abs/1803.08240)
