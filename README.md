@@ -1,3 +1,12 @@
+2018-05
+
+* Deterministic Policy Gradient Algorithms - [paper](http://proceedings.mlr.press/v32/silver14.pdf)
+* Continuous control with deep reinforcement learning - [arXiv](https://arxiv.org/abs/1509.02971)
+* Multi-Agent Actor-Critic for Mixed Cooperative-Competitive Environments - [arXiv](https://arxiv.org/abs/1706.02275)
+* Trust Region Policy Optimization - [arXiv](https://arxiv.org/abs/1502.05477)
+* Sample Efficient Actor-Critic with Experience Replay - [arXiv](https://arxiv.org/abs/1611.01224)
+* Scalable trust-region method for deep reinforcement learning using Kronecker-factored approximation - [arXiv](https://arxiv.org/abs/1708.05144)
+
 2018-04
 
 * Measuring the Intrinsic Dimension of Objective Landscapes - [arXiv](https://arxiv.org/abs/1804.08838)
