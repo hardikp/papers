@@ -1,5 +1,6 @@
 2018-05
 
+* [Stock Movement Prediction from Tweets and Historical Prices](https://www.hardikp.com/2018/05/24/stocknet-paper/) - [paper](http://homepages.inf.ed.ac.uk/scohen/acl18stock.pdf)
 * Deterministic Policy Gradient Algorithms - [paper](http://proceedings.mlr.press/v32/silver14.pdf)
 * Continuous control with deep reinforcement learning - [arXiv](https://arxiv.org/abs/1509.02971)
 * Multi-Agent Actor-Critic for Mixed Cooperative-Competitive Environments - [arXiv](https://arxiv.org/abs/1706.02275)
