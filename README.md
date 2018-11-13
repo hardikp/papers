@@ -1,3 +1,8 @@
+2018-11
+
+* Exploration by Random Network Distillation - [arXiv](https://arxiv.org/abs/1810.12894)
+* BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding - [arXiv](https://arxiv.org/abs/1810.04805)
+
 2018-05
 
 * [Stock Movement Prediction from Tweets and Historical Prices](https://www.hardikp.com/2018/05/24/stocknet-paper/) - [paper](http://homepages.inf.ed.ac.uk/scohen/acl18stock.pdf)
